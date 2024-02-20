@@ -4,5 +4,6 @@ class EventManager
         @events = []
         @participant = []
     end
+
     
 end
